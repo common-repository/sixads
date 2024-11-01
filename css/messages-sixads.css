@@ -1,0 +1,29 @@
+#success-msg-sixads {
+    display: table;
+    position: relative;
+    margin: 40px auto 0;
+    color: #fff;
+    background-color: #27AE60;
+    width: 500px;
+    font-weight: bold;
+    font-size: 1.2em;
+    text-align: center;
+}    
+
+#failed-msg-sixads {
+    display: table;
+    position: relative;
+    margin: 40px auto 0;
+    color: #fff;
+    background-color: #910052;
+    width: 500px;
+    font-weight: bold;
+    font-size: 1.2em;
+    text-align: center;    
+}
+
+#sixads-woocomerce-required {
+    font-size: 13px;
+    line-height: 1.5;
+    color:#444;
+}
